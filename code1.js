@@ -8,3 +8,4 @@ console.log(a + b);
 
 console.log(a * b);
 
+console.log("A console log at line 11.");
