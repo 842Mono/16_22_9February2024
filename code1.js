@@ -9,3 +9,14 @@ console.log(a + b);
 console.log(a * b);
 
 console.log("A console log at line 11.");
+
+console.log(a * 10 + b * 100);
+
+let function1 = function(arg1)
+{
+
+    return arg1 * 15;
+
+}
+
+console.log(function1(b));
